@@ -214,11 +214,11 @@ img{
     background-color: var(--blackish);
 }
 
-.footer-item {
-    /* margin: 0 auto; */
-    /* outline: 3px solid red; */
-    /* flex-basis: 40%; */
-}
+/* .footer-item {
+     margin: 0 auto; 
+     outline: 3px solid red; 
+     flex-basis: 40%; 
+} */
 
 .footer-item-2{
     /* flex-basis: 60%; */
